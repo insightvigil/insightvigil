@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+:computer: **Ingeniero en Sistemas Computacionales por el TECNM**
+:pencil:**Comunicador Digital por UTEL**
+:pencil2: **ZTM and Platzi Student**
+:dart:**"The simpler the better"**
+
+### Let's connect 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Finsightvigil.com
+)
+
 <!--
 **insightvigil/insightvigil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
