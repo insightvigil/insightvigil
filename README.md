@@ -6,7 +6,7 @@
 :dart:**"The simpler the better"**  
 
 ### Let's connect  
-[LinkedIn](https://www.linkedin.com/in/insightvigil)
+
 <!--
 **insightvigil/insightvigil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
