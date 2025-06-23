@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there I'm Vigil 👋
 
-:computer: **Ingeniero en Sistemas Computacionales por el TECNM**  
-:pencil:**Comunicador Digital por UTEL**  
+:computer: **Computer Systems Engineer by TECNM**  
+:pencil:**Digital Communication by UTEL**  
 :pencil2: **ZTM and Platzi Student**  
 :dart:**"The simpler the better"**  
 
 ### Let's connect  
-
+([LinkedIn](https://www.linkedin.com/in/insightvigil))
 <!--
 **insightvigil/insightvigil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
