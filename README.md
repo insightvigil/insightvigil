@@ -6,6 +6,7 @@
 :dart:**"The simpler the better"**  
 
 ### Let's connect 
+[LinkedIn](www.linkedin/in/insightvigil)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Finsightvigil.com
 )
 
