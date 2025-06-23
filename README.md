@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-:computer: **Ingeniero en Sistemas Computacionales por el TECNM**  return
-:pencil:**Comunicador Digital por UTEL**  return
-:pencil2: **ZTM and Platzi Student**  return
-:dart:**"The simpler the better"** 
+:computer: **Ingeniero en Sistemas Computacionales por el TECNM**  
+:pencil:**Comunicador Digital por UTEL**  
+:pencil2: **ZTM and Platzi Student**  
+:dart:**"The simpler the better"**  
 
 ### Let's connect 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Finsightvigil.com
